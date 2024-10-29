@@ -1,2 +1,0 @@
-lr=5e-4  Epoch 1 completed. Average Loss: 0.3711294964382713
-Perplexity calculated: 10.049726004314534
